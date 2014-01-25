@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEulerCSharp", "ProjectEulerCSharp\ProjectEulerCSharp.csproj", "{F30372E5-A3E4-4E5F-BAEC-E5C0F70AA9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{F496FAEA-30A2-4BC3-B8B6-547683F688C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{9B5434A0-A2EE-4FB2-B9A3-BCAF4779D4DC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30372E5-A3E4-4E5F-BAEC-E5C0F70AA9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30372E5-A3E4-4E5F-BAEC-E5C0F70AA9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30372E5-A3E4-4E5F-BAEC-E5C0F70AA9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30372E5-A3E4-4E5F-BAEC-E5C0F70AA9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F496FAEA-30A2-4BC3-B8B6-547683F688C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F496FAEA-30A2-4BC3-B8B6-547683F688C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F496FAEA-30A2-4BC3-B8B6-547683F688C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F496FAEA-30A2-4BC3-B8B6-547683F688C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
